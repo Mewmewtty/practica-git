@@ -1,4 +1,4 @@
-# Pràctica Git
+# Práctica Git
 
 ## 1. ¿Qué comando utilizaste en el paso 11? ¿Por qué?
 *git reset HEAD~1* para que el puntero HEAD y el puntero de la rama styled apunten al commit anterior 
